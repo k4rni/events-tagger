@@ -1,7 +1,10 @@
 services:
   - type: web
-    name: zero-shot-api
+    name: event-tagger
     env: python
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "uvicorn main:app --host 0.0.0.0 --port 10000"
     plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port 10000"
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"

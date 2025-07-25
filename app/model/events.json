@@ -1,0 +1,201 @@
+[
+  { "text": "Live jazz concert in the park", "tags": ["music", "outdoors"] },
+  {
+    "text": "Family-friendly guided nature hike",
+    "tags": ["outdoors", "educational", "family"]
+  },
+  { "text": "Art & wine night for adults", "tags": ["art", "food", "adult"] },
+  {
+    "text": "Kids wildlife education camp",
+    "tags": ["educational", "family", "animals"]
+  },
+  {
+    "text": "Local farmers market with fresh produce",
+    "tags": ["food", "community"]
+  },
+  {
+    "text": "Outdoor yoga session at the beach",
+    "tags": ["health", "outdoors"]
+  },
+  {
+    "text": "Community book club meeting",
+    "tags": ["educational", "community"]
+  },
+  {
+    "text": "Photography workshop in the city",
+    "tags": ["art", "educational"]
+  },
+  { "text": "Charity run for local shelter", "tags": ["health", "community"] },
+  {
+    "text": "Cooking class featuring local cuisine",
+    "tags": ["food", "educational"]
+  },
+  {
+    "text": "Outdoor movie night with family-friendly films",
+    "tags": ["entertainment", "family", "outdoors"]
+  },
+  {
+    "text": "Local history walking tour",
+    "tags": ["educational", "community"]
+  },
+  {
+    "text": "Pet adoption event at the local shelter",
+    "tags": ["animals", "community"]
+  },
+  {
+    "text": "Craft fair showcasing local artisans",
+    "tags": ["art", "community"]
+  },
+  {
+    "text": "Live theater performance in the town square",
+    "tags": ["entertainment", "community"]
+  },
+  {
+    "text": "Gardening workshop for beginners",
+    "tags": ["educational", "outdoors"]
+  },
+  {
+    "text": "Local music festival featuring various genres",
+    "tags": ["music", "community"]
+  },
+  {
+    "text": "Wellness retreat focusing on mental health",
+    "tags": ["health", "educational"]
+  },
+  {
+    "text": "Outdoor sports tournament for all ages",
+    "tags": ["sports", "family", "outdoors"]
+  },
+  {
+    "text": "Cultural festival celebrating local traditions",
+    "tags": ["community", "cultural"]
+  },
+  {
+    "text": "Science fair showcasing student projects",
+    "tags": ["educational", "family"]
+  },
+  {
+    "text": "Local brewery tour and tasting event",
+    "tags": ["food", "adult", "community"]
+  },
+  {
+    "text": "Nature photography contest with prizes",
+    "tags": ["art", "outdoors", "community"]
+  },
+  {
+    "text": "Volunteer day at the community garden",
+    "tags": ["community", "outdoors"]
+  },
+  {
+    "text": "Outdoor fitness boot camp for all levels",
+    "tags": ["health", "outdoors"]
+  },
+  {
+    "text": "Local film screening with Q&A session",
+    "tags": ["entertainment", "educational", "community"]
+  },
+  {
+    "text": "Holiday craft workshop for kids",
+    "tags": ["educational", "family", "art"]
+  },
+  {
+    "text": "Community picnic with games and activities",
+    "tags": ["family", "outdoors", "community"]
+  },
+  {
+    "text": "Local poetry reading night",
+    "tags": ["art", "entertainment"]
+  },
+  {
+    "text": "Historical reenactment event",
+    "tags": ["educational", "community", "cultural"]
+  },
+  {
+    "text": "Outdoor dance class for beginners",
+    "tags": ["health", "outdoors", "educational"]
+  },
+  {
+    "text": "Local art gallery opening night",
+    "tags": ["art", "community"]
+  },
+  {
+    "text": "Family science workshop at the museum",
+    "tags": ["educational", "family"]
+  },
+  {
+    "text": "Community cleanup day at the beach",
+    "tags": ["community", "outdoors"]
+  },
+  {
+    "text": "Local food truck festival",
+    "tags": ["food", "community", "entertainment"]
+  },
+  {
+    "text": "Outdoor meditation session at the park",
+    "tags": ["health", "outdoors"]
+  },
+  {
+    "text": "Kids art and craft day at the library",
+    "tags": ["educational", "family", "art"]
+  },
+  {
+    "text": "Local dance performance showcasing cultural dances",
+    "tags": ["entertainment", "cultural", "community"]
+  },
+  {
+    "text": "Outdoor cooking demonstration with local chefs",
+    "tags": ["food", "educational", "outdoors"]
+  },
+  {
+    "text": "Community storytelling night",
+    "tags": ["entertainment", "community"]
+  },
+  {
+    "text": "Local wildlife conservation workshop",
+    "tags": ["educational", "animals", "community"]
+  },
+  {
+    "text": "Outdoor family game day with sports and activities",
+    "tags": ["family", "outdoors", "sports"]
+  },
+  {
+    "text": "Local history documentary screening",
+    "tags": ["educational", "community", "entertainment"]
+  },
+  {
+    "text": "Outdoor art installation tour",
+    "tags": ["art", "outdoors", "educational"]
+  },
+  {
+    "text": "Community talent show",
+    "tags": ["entertainment", "community"]
+  },
+  {
+    "text": "Local environmental awareness seminar",
+    "tags": ["educational", "community"]
+  },
+  {
+    "text": "Outdoor family picnic with live music",
+    "tags": ["family", "outdoors", "music"]
+  },
+  {
+    "text": "Local book fair with author signings",
+    "tags": ["educational", "community", "entertainment"]
+  },
+  {
+    "text": "Outdoor pottery class for beginners",
+    "tags": ["art", "educational", "outdoors"]
+  },
+  {
+    "text": "Community sports day with various activities",
+    "tags": ["sports", "family", "community"]
+  },
+  {
+    "text": "Local photography exhibition",
+    "tags": ["art", "community"]
+  },
+  {
+    "text": "Outdoor family storytelling session",
+    "tags": ["family", "outdoors", "entertainment"]
+  }
+]
