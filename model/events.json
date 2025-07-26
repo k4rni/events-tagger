@@ -1,201 +1,225 @@
 [
-  { "text": "Live jazz concert in the park", "tags": ["music", "outdoors"] },
+  { "text": "Butterfly Series: Limestone Canyon Butterfly Habitat Islands", "tags": ["nature", "educational"] },
   {
-    "text": "Family-friendly guided nature hike",
-    "tags": ["outdoors", "educational", "family"]
+    "text": "Agua Chinon Equestrian Ride",
+    "tags": ["outdoors", "wellness"]
   },
-  { "text": "Art & wine night for adults", "tags": ["art", "food", "adult"] },
+  { "text": "Early Morning Hike to The Sinks: Limestone Canyon", "tags": ["nature", "wellness"] },
   {
-    "text": "Kids wildlife education camp",
-    "tags": ["educational", "family", "animals"]
-  },
-  {
-    "text": "Local farmers market with fresh produce",
-    "tags": ["food", "community"]
+    "text": "Growing Together at the Native Seed Farm",
+    "tags": ["volunteer", "environmental"]
   },
   {
-    "text": "Outdoor yoga session at the beach",
-    "tags": ["health", "outdoors"]
+    "text": "Nature Hike at Gypsum Canyon Wilderness",
+    "tags": ["nature", "wellness"]
   },
   {
-    "text": "Community book club meeting",
-    "tags": ["educational", "community"]
+    "text": "Mountain Bike Ride at Fremont and Weir Canyons to Sierra Peak",
+    "tags": ["nature", "wellness"]
   },
   {
-    "text": "Photography workshop in the city",
-    "tags": ["art", "educational"]
-  },
-  { "text": "Charity run for local shelter", "tags": ["health", "community"] },
-  {
-    "text": "Cooking class featuring local cuisine",
-    "tags": ["food", "educational"]
+    "text": "Limestone Canyon - Weekend Hike to Both Sides of the Sinks",
+    "tags": ["nature", "wellness"]
   },
   {
-    "text": "Outdoor movie night with family-friendly films",
-    "tags": ["entertainment", "family", "outdoors"]
+    "text": "Agua Chinon and the Sinks Exploration Day",
+    "tags": ["nature", "wellness", "educational"]
+  },
+  { "text": "Animal Signs and Tracks in Fremont Canyon", "tags": ["educational"] },
+  {
+    "text": "Fossils are Fun",
+    "tags": ["educational"]
   },
   {
-    "text": "Local history walking tour",
-    "tags": ["educational", "community"]
+    "text": "Sunset Fitness Hike on Paved Hicks Haul Road: Both Sides of Loma Ridge",
+    "tags": ["wellness"]
   },
   {
-    "text": "Pet adoption event at the local shelter",
-    "tags": ["animals", "community"]
+    "text": "Family Hike at Black Star Canyon",
+    "tags": ["wellness", "nature"]
   },
   {
-    "text": "Craft fair showcasing local artisans",
-    "tags": ["art", "community"]
+    "text": "Sunday Fitness Hike at Hicks Haul",
+    "tags": ["nature", "wellness"]
   },
   {
-    "text": "Live theater performance in the town square",
-    "tags": ["entertainment", "community"]
+    "text": "Discover Hidden Canyons: Round Canyon",
+    "tags": ["nature", "wellness", "educational"]
   },
   {
-    "text": "Gardening workshop for beginners",
-    "tags": ["educational", "outdoors"]
+    "text": "Enjoy Nature's Story, Vistas, and Special Places - Intro Hike in Limestone Canyon",
+    "tags": ["educational", "nature"]
   },
   {
-    "text": "Local music festival featuring various genres",
-    "tags": ["music", "community"]
+    "text": "Wildfire Awareness Series: Tecate Cypress Stewardship",
+    "tags": ["educational", "volunteer"]
   },
   {
-    "text": "Wellness retreat focusing on mental health",
-    "tags": ["health", "educational"]
+    "text": "Baker Canyon Equestrian Ride in Black Star Wilderness Area",
+    "tags": ["wellness", "nature"]
   },
   {
-    "text": "Outdoor sports tournament for all ages",
-    "tags": ["sports", "family", "outdoors"]
+    "text": "After Work Fitness Hike on Paved Hicks Haul Road",
+    "tags": ["wellness"]
   },
   {
-    "text": "Cultural festival celebrating local traditions",
-    "tags": ["community", "cultural"]
+    "text": "Moving with Nature in Mind - Yoga at the Farm",
+    "tags": ["nature", "wellness"]
   },
   {
-    "text": "Science fair showcasing student projects",
-    "tags": ["educational", "family"]
+    "text": "Growing Together at the Native Seed Farm",
+    "tags": ["volunteer", "educational"]
   },
   {
-    "text": "Local brewery tour and tasting event",
-    "tags": ["food", "adult", "community"]
+    "text": "Portola to The Sinks",
+    "tags": ["educational", "environmental"]
   },
   {
-    "text": "Nature photography contest with prizes",
-    "tags": ["art", "outdoors", "community"]
+    "text": "Slow Pace Mountain Bike Ride: Weir Canyon",
+    "tags": ["nature", "wellness"]
   },
   {
-    "text": "Volunteer day at the community garden",
-    "tags": ["community", "outdoors"]
+    "text": "Wildfire Awareness Series: Explore Your Native Garden",
+    "tags": ["volunteer", "educational"]
   },
   {
-    "text": "Outdoor fitness boot camp for all levels",
-    "tags": ["health", "outdoors"]
+    "text": "Family Hike: Agua Chinon",
+    "tags": ["nature", "wellness"]
   },
   {
-    "text": "Local film screening with Q&A session",
-    "tags": ["entertainment", "educational", "community"]
+    "text": "Weir Canyon Fitness Hike: Oaks to Overlook Loop",
+    "tags": ["wellness", "nature"]
   },
   {
-    "text": "Holiday craft workshop for kids",
-    "tags": ["educational", "family", "art"]
+    "text": "Evening Family Beginner Mountain Bike Ride: Limestone Canyon to The Sinks",
+    "tags": ["wellness"]
   },
   {
-    "text": "Community picnic with games and activities",
-    "tags": ["family", "outdoors", "community"]
+    "text": "Bats: Heroes of the Night",
+    "tags": ["educational"]
   },
   {
-    "text": "Local poetry reading night",
-    "tags": ["art", "entertainment"]
+    "text": "Bright Birds of Spring in Baker Canyon - Bird Walk",
+    "tags": ["educational", "environmental"]
   },
   {
-    "text": "Historical reenactment event",
-    "tags": ["educational", "community", "cultural"]
+    "text": "Dripping Springs Trail Restoration",
+    "tags": ["volunteer", "educational", "environmental"]
   },
   {
-    "text": "Outdoor dance class for beginners",
-    "tags": ["health", "outdoors", "educational"]
+    "text": "Takedown Tuesdays: Weeding at the Native Seed Farm",
+    "tags": ["volunteer"]
   },
   {
-    "text": "Local art gallery opening night",
-    "tags": ["art", "community"]
+    "text": "Art on the Landmarks: Painting at the Native Seed Farm",
+    "tags": ["arts & crafts"]
   },
   {
-    "text": "Family science workshop at the museum",
-    "tags": ["educational", "family"]
+    "text": "Starry, Starry Night",
+    "tags": ["educational", "wellness"]
   },
   {
-    "text": "Community cleanup day at the beach",
-    "tags": ["community", "outdoors"]
+    "text": "Twilight Beginner Cardio Hike in Limestone Canyon",
+    "tags": ["wellness", "nature"]
   },
   {
-    "text": "Local food truck festival",
-    "tags": ["food", "community", "entertainment"]
+    "text": "OC Public Library and IRC Nature Storytime Series: Native Plants and Animals on the Irvine Ranch Landmarks",
+    "tags": ["educational", "nature", "environmental"]
   },
   {
-    "text": "Outdoor meditation session at the park",
-    "tags": ["health", "outdoors"]
+    "text": "Baker Meadow Group Stewardship",
+    "tags": ["wellness"]
   },
   {
-    "text": "Kids art and craft day at the library",
-    "tags": ["educational", "family", "art"]
+    "text": "Spring Into Summer",
+    "tags": ["arts & crafts", "educational"]
   },
   {
-    "text": "Local dance performance showcasing cultural dances",
-    "tags": ["entertainment", "cultural", "community"]
+    "text": "The Lure and Lull of Red Rock Wilderness Equestrian Ride",
+    "tags": ["wellness"]
   },
   {
-    "text": "Outdoor cooking demonstration with local chefs",
-    "tags": ["food", "educational", "outdoors"]
+    "text": "Rocks are Rad: Geology Hike at Black Star Canyon",
+    "tags": ["educational", "wellness"]
   },
   {
-    "text": "Community storytelling night",
-    "tags": ["entertainment", "community"]
+    "text": "Discovery Hike - Wood Canyon",
+    "tags": ["educational", "wellness"]
   },
   {
-    "text": "Local wildlife conservation workshop",
-    "tags": ["educational", "animals", "community"]
+    "text": "Tree Exploration",
+    "tags": ["educational"]
   },
   {
-    "text": "Outdoor family game day with sports and activities",
-    "tags": ["family", "outdoors", "sports"]
+    "text": "Wild Tales",
+    "tags": ["educational", "arts & crafts"]
   },
   {
-    "text": "Local history documentary screening",
-    "tags": ["educational", "community", "entertainment"]
+    "text": "National Trails Day Trail Stewardship - Meadows and Sheep Run",
+    "tags": ["wellness", "volunteer"]
   },
   {
-    "text": "Outdoor art installation tour",
-    "tags": ["art", "outdoors", "educational"]
+    "text": "Plants Among Us: Learning About Plants at Gypsum Canyon Wilderness",
+    "tags": ["educational", "wellness"]
   },
   {
-    "text": "Community talent show",
-    "tags": ["entertainment", "community"]
+    "text": "Nature Meditation Walk",
+    "tags": ["wellness", "nature"]
   },
   {
-    "text": "Local environmental awareness seminar",
-    "tags": ["educational", "community"]
+    "text": "High School Youth Action Team: Dripping Springs Trail Restoration",
+    "tags": ["volunteer", "environmental"]
   },
   {
-    "text": "Outdoor family picnic with live music",
-    "tags": ["family", "outdoors", "music"]
+    "text": "Nurturing Oaks in Weir Canyon",
+    "tags": ["volunteer", "nature"]
   },
   {
-    "text": "Local book fair with author signings",
-    "tags": ["educational", "community", "entertainment"]
+    "text": "Seasonal Science Series: Spring Social Butterfly Habitat Enhancement",
+    "tags": ["wellness", "environmental"]
   },
   {
-    "text": "Outdoor pottery class for beginners",
-    "tags": ["art", "educational", "outdoors"]
+    "text": "Little Explorers: Cactus",
+    "tags": ["educational"]
   },
   {
-    "text": "Community sports day with various activities",
-    "tags": ["sports", "family", "community"]
+    "text": "Nature Journaling: Invasive Plants",
+    "tags": ["arts & crafts", "nature"]
   },
   {
-    "text": "Local photography exhibition",
-    "tags": ["art", "community"]
+    "text": "Critter Investigation: Magnificent Mountain Lions",
+    "tags": ["educational", "arts & crafts"]
   },
   {
-    "text": "Outdoor family storytelling session",
-    "tags": ["family", "outdoors", "entertainment"]
+    "text": "Preschool Paleontology: Art & Storytime",
+    "tags": ["educational", "arts & crafts"]
+  },
+  {
+    "text": "Tot Walk",
+    "tags": ["wellness"]
+  },
+  {
+    "text": "Scouting Out Nature: The Coastal Sage Scrub Habitat of Shady Canyon",
+    "tags": ["wellness", "educational"]
+  },
+  {
+    "text": "Birding by the Creek",
+    "tags": ["wellness", "educational"]
+  },
+  {
+    "text": "Adaptation Spotlight: Bioluminescence and UV Light",
+    "tags": ["arts & crafts", "educational"]
+  },
+  {
+    "text": "Open Space Invaders: Invasive Plant Removal at Agua Chinon",
+    "tags": ["volunteer", "educational"]
+  },
+  {
+    "text": "Jr. Ranger Adventure: Aliso and Wood Canyons",
+    "tags": ["nature", "educational"]
+  },
+  {
+    "text": "Upper Newport Bay Habitat Stewards",
+    "tags": ["volunteer"]
   }
 ]
