@@ -1,10 +1,16 @@
 [
-  { "text": "Butterfly Series: Limestone Canyon Butterfly Habitat Islands", "tags": ["nature", "educational"] },
+  {
+    "text": "Butterfly Series: Limestone Canyon Butterfly Habitat Islands",
+    "tags": ["nature", "educational"]
+  },
   {
     "text": "Agua Chinon Equestrian Ride",
     "tags": ["outdoors", "wellness"]
   },
-  { "text": "Early Morning Hike to The Sinks: Limestone Canyon", "tags": ["nature", "wellness"] },
+  {
+    "text": "Early Morning Hike to The Sinks: Limestone Canyon",
+    "tags": ["nature", "wellness"]
+  },
   {
     "text": "Growing Together at the Native Seed Farm",
     "tags": ["volunteer", "environmental"]
@@ -25,7 +31,10 @@
     "text": "Agua Chinon and the Sinks Exploration Day",
     "tags": ["nature", "wellness", "educational"]
   },
-  { "text": "Animal Signs and Tracks in Fremont Canyon", "tags": ["educational"] },
+  {
+    "text": "Animal Signs and Tracks in Fremont Canyon",
+    "tags": ["educational"]
+  },
   {
     "text": "Fossils are Fun",
     "tags": ["educational"]
