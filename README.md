@@ -13,8 +13,7 @@ _These are the tags I chose for the training model data. This is subject to chan
 - arts & crafts
 - educational
 - volunteer
-- environmental
 
 Check out https://github.com/k4rni/ocparks-events to see how this model is used!
 
-Created with 💖 by Karnikaa Velumani.
+Created with 💖 by [Karnikaa Velumani](https://github.com/k4rni/).
