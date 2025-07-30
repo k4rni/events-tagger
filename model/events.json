@@ -1,234 +1,290 @@
 [
   {
     "text": "Butterfly Series: Limestone Canyon Butterfly Habitat Islands",
-    "tags": ["nature", "educational"]
+    "tags": ["Volunteer", "Educational"]
   },
   {
     "text": "Agua Chinon Equestrian Ride",
-    "tags": ["outdoors", "wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Early Morning Hike to The Sinks: Limestone Canyon",
-    "tags": ["nature", "wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Growing Together at the Native Seed Farm",
-    "tags": ["volunteer", "environmental"]
+    "tags": ["Volunteer"]
   },
   {
     "text": "Nature Hike at Gypsum Canyon Wilderness",
-    "tags": ["nature", "wellness"]
+    "tags": ["Nature", "Wellness"]
   },
   {
     "text": "Mountain Bike Ride at Fremont and Weir Canyons to Sierra Peak",
-    "tags": ["nature", "wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Limestone Canyon - Weekend Hike to Both Sides of the Sinks",
-    "tags": ["nature", "wellness"]
+    "tags": ["Nature", "Wellness"]
   },
   {
     "text": "Agua Chinon and the Sinks Exploration Day",
-    "tags": ["nature", "wellness", "educational"]
+    "tags": ["Nature", "Wellness", "Educational"]
   },
   {
     "text": "Animal Signs and Tracks in Fremont Canyon",
-    "tags": ["educational"]
+    "tags": ["Educational"]
   },
   {
     "text": "Fossils are Fun",
-    "tags": ["educational"]
+    "tags": ["Educational"]
   },
   {
     "text": "Sunset Fitness Hike on Paved Hicks Haul Road: Both Sides of Loma Ridge",
-    "tags": ["wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Family Hike at Black Star Canyon",
-    "tags": ["wellness", "nature"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Sunday Fitness Hike at Hicks Haul",
-    "tags": ["nature", "wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Discover Hidden Canyons: Round Canyon",
-    "tags": ["nature", "wellness", "educational"]
+    "tags": ["Nature", "Wellness", "Educational"]
   },
   {
     "text": "Enjoy Nature's Story, Vistas, and Special Places - Intro Hike in Limestone Canyon",
-    "tags": ["educational", "nature"]
+    "tags": ["Educational", "Nature"]
   },
   {
     "text": "Wildfire Awareness Series: Tecate Cypress Stewardship",
-    "tags": ["educational", "volunteer"]
+    "tags": ["Educational", "Volunteer"]
   },
   {
     "text": "Baker Canyon Equestrian Ride in Black Star Wilderness Area",
-    "tags": ["wellness", "nature"]
+    "tags": ["Wellness"]
   },
   {
     "text": "After Work Fitness Hike on Paved Hicks Haul Road",
-    "tags": ["wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Moving with Nature in Mind - Yoga at the Farm",
-    "tags": ["nature", "wellness"]
-  },
-  {
-    "text": "Growing Together at the Native Seed Farm",
-    "tags": ["volunteer", "educational"]
+    "tags": ["Nature", "Wellness"]
   },
   {
     "text": "Portola to The Sinks",
-    "tags": ["educational", "environmental"]
+    "tags": ["Educational"]
   },
   {
     "text": "Slow Pace Mountain Bike Ride: Weir Canyon",
-    "tags": ["nature", "wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Wildfire Awareness Series: Explore Your Native Garden",
-    "tags": ["volunteer", "educational"]
+    "tags": ["Volunteer", "Educational"]
   },
   {
     "text": "Family Hike: Agua Chinon",
-    "tags": ["nature", "wellness"]
+    "tags": ["Nature", "Wellness"]
   },
   {
     "text": "Weir Canyon Fitness Hike: Oaks to Overlook Loop",
-    "tags": ["wellness", "nature"]
+    "tags": ["Wellness", "Nature"]
   },
   {
     "text": "Evening Family Beginner Mountain Bike Ride: Limestone Canyon to The Sinks",
-    "tags": ["wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Bats: Heroes of the Night",
-    "tags": ["educational"]
+    "tags": ["Educational"]
   },
   {
     "text": "Bright Birds of Spring in Baker Canyon - Bird Walk",
-    "tags": ["educational", "environmental"]
+    "tags": ["Educational"]
   },
   {
     "text": "Dripping Springs Trail Restoration",
-    "tags": ["volunteer", "educational", "environmental"]
+    "tags": ["Volunteer", "Educational", "Nature"]
   },
   {
     "text": "Takedown Tuesdays: Weeding at the Native Seed Farm",
-    "tags": ["volunteer"]
+    "tags": ["Volunteer"]
   },
   {
     "text": "Art on the Landmarks: Painting at the Native Seed Farm",
-    "tags": ["arts & crafts"]
+    "tags": ["Arts & Crafts"]
   },
   {
     "text": "Starry, Starry Night",
-    "tags": ["educational", "wellness"]
+    "tags": ["Educational", "Wellness"]
   },
   {
     "text": "Twilight Beginner Cardio Hike in Limestone Canyon",
-    "tags": ["wellness", "nature"]
+    "tags": ["Wellness", "Nature"]
   },
   {
     "text": "OC Public Library and IRC Nature Storytime Series: Native Plants and Animals on the Irvine Ranch Landmarks",
-    "tags": ["educational", "nature", "environmental"]
+    "tags": ["Educational", "Nature"]
   },
   {
     "text": "Baker Meadow Group Stewardship",
-    "tags": ["wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Spring Into Summer",
-    "tags": ["arts & crafts", "educational"]
+    "tags": ["Arts & Crafts", "Educational"]
   },
   {
     "text": "The Lure and Lull of Red Rock Wilderness Equestrian Ride",
-    "tags": ["wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Rocks are Rad: Geology Hike at Black Star Canyon",
-    "tags": ["educational", "wellness"]
+    "tags": ["Educational", "Wellness"]
   },
   {
     "text": "Discovery Hike - Wood Canyon",
-    "tags": ["educational", "wellness"]
+    "tags": ["Educational", "Wellness"]
   },
   {
     "text": "Tree Exploration",
-    "tags": ["educational"]
+    "tags": ["Educational"]
   },
   {
     "text": "Wild Tales",
-    "tags": ["educational", "arts & crafts"]
+    "tags": ["Educational", "Arts & Crafts"]
   },
   {
     "text": "National Trails Day Trail Stewardship - Meadows and Sheep Run",
-    "tags": ["wellness", "volunteer"]
+    "tags": ["Wellness", "Volunteer"]
   },
   {
     "text": "Plants Among Us: Learning About Plants at Gypsum Canyon Wilderness",
-    "tags": ["educational", "wellness"]
+    "tags": ["Educational", "Wellness"]
   },
   {
     "text": "Nature Meditation Walk",
-    "tags": ["wellness", "nature"]
+    "tags": ["Wellness", "Nature"]
   },
   {
     "text": "High School Youth Action Team: Dripping Springs Trail Restoration",
-    "tags": ["volunteer", "environmental"]
+    "tags": ["Volunteer"]
   },
   {
     "text": "Nurturing Oaks in Weir Canyon",
-    "tags": ["volunteer", "nature"]
+    "tags": ["Volunteer", "Nature"]
   },
   {
     "text": "Seasonal Science Series: Spring Social Butterfly Habitat Enhancement",
-    "tags": ["wellness", "environmental"]
+    "tags": ["Volunteer", "Nature"]
   },
   {
     "text": "Little Explorers: Cactus",
-    "tags": ["educational"]
+    "tags": ["Educational"]
   },
   {
     "text": "Nature Journaling: Invasive Plants",
-    "tags": ["arts & crafts", "nature"]
+    "tags": ["Arts & Crafts", "Nature"]
   },
   {
     "text": "Critter Investigation: Magnificent Mountain Lions",
-    "tags": ["educational", "arts & crafts"]
+    "tags": ["Educational", "Arts & Crafts"]
   },
   {
     "text": "Preschool Paleontology: Art & Storytime",
-    "tags": ["educational", "arts & crafts"]
+    "tags": ["Educational", "Arts & Crafts"]
   },
   {
     "text": "Tot Walk",
-    "tags": ["wellness"]
+    "tags": ["Wellness"]
   },
   {
     "text": "Scouting Out Nature: The Coastal Sage Scrub Habitat of Shady Canyon",
-    "tags": ["wellness", "educational"]
+    "tags": ["Wellness", "Educational"]
   },
   {
     "text": "Birding by the Creek",
-    "tags": ["wellness", "educational"]
+    "tags": ["Wellness", "Educational"]
   },
   {
     "text": "Adaptation Spotlight: Bioluminescence and UV Light",
-    "tags": ["arts & crafts", "educational"]
+    "tags": ["Arts & Crafts", "Educational"]
   },
   {
     "text": "Open Space Invaders: Invasive Plant Removal at Agua Chinon",
-    "tags": ["volunteer", "educational"]
+    "tags": ["Volunteer", "Educational"]
   },
   {
     "text": "Jr. Ranger Adventure: Aliso and Wood Canyons",
-    "tags": ["nature", "educational"]
+    "tags": ["Nature", "Educational"]
   },
   {
     "text": "Upper Newport Bay Habitat Stewards",
-    "tags": ["volunteer"]
+    "tags": ["Volunteer"]
+  },
+  {
+    "text": "Animal Art I Preschool Program",
+    "tags": ["Arts & Crafts", "Educational"]
+  },
+  {
+    "text": "Crazy for Cats Program for Ages 7-10",
+    "tags": ["Arts & Crafts", "Educational"]
+  },
+  {
+    "text": "Feathery Friends Preschool Program",
+    "tags": ["Arts & Crafts", "Educational"]
+  },
+  {
+    "text": "Halloween Animal Art Preschool Program",
+    "tags": ["Arts & Crafts", "Educational"]
+  },
+  {
+    "text": "Halloween Zoo-tacular at the OC Zoo",
+    "tags": ["Arts & Crafts", "Educational"]
+  },
+  {
+    "text": "Phone Photo Friday",
+    "tags": ["Arts & Crafts", "Nature"]
+  },
+  {
+    "text": "Nature's Art: Photography at the Native Seed Farm",
+    "tags": ["Arts & Crafts"]
+  },
+  {
+    "text": "Nature's Palette: Painting at the Native Seed Farm",
+    "tags": ["Arts & Crafts", "Nature"]
+  }, 
+  {
+    "text": "Volunteer Day at the Native Seed Farm",
+    "tags": ["Volunteer", "Nature"]
+  },
+  {
+    "text": "Trail Maintenance at Black Star Canyon",
+    "tags": ["Volunteer", "Nature"]
+  },
+  {
+    "text": "Community Clean-Up at Weir Canyon",
+    "tags": ["Volunteer", "Nature"]
+  },
+  {
+    "text": "Invasive Species Removal at Limestone Canyon",
+    "tags": ["Volunteer", "Nature"]
+  },
+  {
+    "text": "Habitat Restoration at the Coastal Sage Scrub",
+    "tags": ["Volunteer", "Nature"]
+  },
+  {
+    "text": "Nature Journaling at Clark Park",
+    "tags": ["Arts & Crafts", "Nature"]
+  },
+  {
+    "text": "Nature Journaling at Mile Square",
+    "tags": ["Arts & Crafts"]
   }
 ]
